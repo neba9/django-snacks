@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "django-snacks"
+name = "django_snacks"
 version = "0.1.0"
 description = ""
 authors = ["nebiyu kifle <rema9.ne@gmail.com>"]
