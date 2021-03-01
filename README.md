@@ -29,4 +29,4 @@ $ git clone : https://github.com/neba9/django-snacks.git
 ---
 
 ------------------------------
-For more information on Markdown: https://github.com/neba9/snakes-cafe/blob/master/README.md
+For more information on Markdown: https://github.com/neba9/django-snacks/blob/master/README.md
