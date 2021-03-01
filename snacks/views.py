@@ -1,11 +1,11 @@
 from django.shortcuts import render
-from django.views.Generated import TemplateView
+from django.views.generic import TemplateView
 
 class HomePageView(TemplateView):
-  tempalte_name = 'home.html'
+  template_name = 'home.html'
 
 class AboutView(TemplateView):
-  tempalte_name = 'about.html'
+  template_name = 'about.html'
 
 
 
